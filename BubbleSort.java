@@ -1,3 +1,15 @@
+/**
+ * BUBBLE SORT is based on the idea of repeatedly compairing pairs of 
+ * adjacent elements, then switching positions if they exist in te wrong order.
+ * 
+ * @author [Cao, John Michael]
+ * @link [https://github.com/leahMic/DSA/edit/master/BubbleSort.java]
+ * @version [version number]
+ * @since [9/21/16]
+ * 
+*/
+
+
 import java.util.Scanner;
 import java.util.Random;
 public class BubbleSort {
